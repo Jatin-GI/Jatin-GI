@@ -46,7 +46,7 @@ I’m passionate about solving real-world problems using **AI, Machine Learning,
 
 | 🚀 Project | 🛠 Tech Stack | 📄 Description |
 |-----------|--------------|---------------|
-| **🏡 House Price Predictor** | ML, Streamlit, Pandas | Predict real estate prices with an interactive web app |
+| **🏡 House Price Predictor** | Machine Learning, Scikit-learn, Pandas | Predict real estate prices |
 | **🏏 IPL Match Winner Predictor** | XGBoost, FastAPI | Real-time match outcome predictions for cricket matches |
 | **💳 Credit Card Fraud Detection** | Machine Learning, Scikit-learn | Detect fraudulent credit card transactions using classification algorithms |
 | **🌐 Web Maker** | Node.js, Gemini API, Convex, React, Shadcn/UI, Sandpack | Full-stack prototyping playground to build and deploy interactive web apps |
