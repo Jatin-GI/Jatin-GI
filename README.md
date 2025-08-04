@@ -46,9 +46,9 @@ I’m passionate about solving real-world problems using **AI, Machine Learning,
 
 | 🚀 Project | 🛠 Tech Stack | 📄 Description |
 |-----------|--------------|---------------|
-| **🏡 House Price Predictor** | Machine Learning, Scikit-learn, Pandas | Predict real estate prices |
+| **🎮 Game Recommendation** | TF-IDF vectorization, Porter stemming, cosine similarity | Content-based game recommender system |
 | **🏏 IPL Match Winner Predictor** | XGBoost, FastAPI | Real-time match outcome predictions for cricket matches |
-| **💳 Credit Card Fraud Detection** | Machine Learning, Scikit-learn | Detect fraudulent credit card transactions using classification algorithms |
+| **🏭 SteelScan AI** | deep convolutional neural networks (CNNs), transfer learning, ResNet101V2 | System designed to detect and classify surface defects in steel products |
 | **🌐 Web Maker** | Node.js, Gemini API, Convex, React, Shadcn/UI, Sandpack | Full-stack prototyping playground to build and deploy interactive web apps |
 
 
